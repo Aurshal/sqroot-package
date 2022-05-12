@@ -1,5 +1,4 @@
 This is test python package.
-```
-python
+```python
 pip install -i https://test.pypi.org/simple/ sqroot
 ```
