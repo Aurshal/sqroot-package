@@ -6,7 +6,7 @@ setup(
         where="src",
     ),
     package_dir={"": "src"},
-    version="1.0.0",
+    version="1.0.1",
     description="A simple test python library",
     author="Me",
     license="MIT",
